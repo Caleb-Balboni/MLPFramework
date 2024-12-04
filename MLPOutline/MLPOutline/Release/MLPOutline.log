@@ -1,0 +1,17 @@
+﻿  MLPOutline.cpp
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(97,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(100,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(106,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(132,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(134,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(137,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(142,24): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 300 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MLPOutline.vcxproj -> C:\Users\caleb\source\repos\MLPOutline\Release\MLPOutline.exe

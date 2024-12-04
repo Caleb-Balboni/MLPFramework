@@ -1,0 +1,12 @@
+﻿  MLPOutline.cpp
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(93,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(96,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(102,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(125,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(128,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(130,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(133,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(138,24): warning C4018: '<': signed/unsigned mismatch
+  MLPOutline.vcxproj -> C:\Users\caleb\source\repos\MLPOutline\Debug\MLPOutline.exe

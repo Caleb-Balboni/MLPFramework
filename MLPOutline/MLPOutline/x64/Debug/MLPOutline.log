@@ -1,0 +1,5 @@
+﻿  MLPOutline.cpp
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(71,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(73,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\caleb\source\repos\MLPOutline\MLPOutline\MLPOutline.cpp(79,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MLPOutline.vcxproj -> C:\Users\caleb\source\repos\MLPOutline\x64\Debug\MLPOutline.exe
